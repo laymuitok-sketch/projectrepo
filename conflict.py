@@ -1,2 +1,2 @@
 def greet():
-print("Hello from master branch - update")
+print("hello from both master and new branch - resolved")
