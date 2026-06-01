@@ -1,2 +1,2 @@
 def greet():
-print("Hello from master branch")
+Print("Hello from new branch")
